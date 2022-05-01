@@ -1,4 +1,41 @@
+.oneline {
+  display: inline-block;
+}
+
+#id1 {
+  margin-left: 20%;
+}
+
+.commondeco {
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 2px grey;
+  margin: 0px 20px 0px 0px;
+}
+
+.commondeco2 {
+  margin-left: 30%;
+}
+
+.commondeco3 {
+  padding-left: 20px;
+}
+
+.commondeco4 {
+  padding-left: 30px;
+}
+
+.commondeco5 {
+  padding-left: 15px;
+}
+
+#id2 {
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+
 .footer{
-  margin-left : 80px;
-  font-size : 18px;
+  margin-left: 80px;
+  font-size: 18px;
 }
